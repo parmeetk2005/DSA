@@ -1,8 +1,4 @@
 # 🚀 LeetCode Solutions
-![LeetCode badge](https://img.shields.io/badge/LeetCode-Solutions-orange?logo=leetcode)
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/leetcode-solutions)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/leetcode-solutions)
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 This repository contains my solutions to problems from [LeetCode](https://leetcode.com/u/PARMEET-KAUR/).  
 I use this repo to **track my progress**, **practice data structures & algorithms**, and **prepare for coding interviews**.
@@ -21,9 +17,9 @@ Using a single language ensures consistency and allows me to focus on problem-so
 
 ## 📈 Progress
 - Total problems solved: **135/3655**
-- ![Easy](https://img.shields.io/badge/Easy-82-green) : **82**
-- ![Medium](https://img.shields.io/badge/Medium-41-yellow) : **41**
-- ![Hard](https://img.shields.io/badge/Hard-12-red) : **12**
+- ![Easy](https://img.shields.io/badge/Easy-green) : **82**
+- ![Medium](https://img.shields.io/badge/Medium-yellow) : **41**
+- ![Hard](https://img.shields.io/badge/Hard-red) : **12**
 
 
 ## 🎯 Goals
