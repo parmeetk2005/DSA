@@ -5,7 +5,7 @@ I use this repo to **track my progress**, **practice data structures & algorithm
 
 
 ## 📂 Structure
-Each problem is stored by its ID and title for easy navigation:
+Each problem is stored by its ID and title for easy navigation.
 
 
 ## 🛠 Language Used
