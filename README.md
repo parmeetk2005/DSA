@@ -7,13 +7,6 @@ I use this repo to **track my progress**, **practice data structures & algorithm
 ## 📂 Structure
 Each problem is stored by its ID and title for easy navigation.
 
-│── TOPIC NAME/
-│ │── QUESTION-1/
-│ │ └── Solution.java
-│ │── QUESTION-2/
-│ | └── Solution.java
-
-
 
 ## 🛠 Language Used
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
