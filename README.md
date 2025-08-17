@@ -6,11 +6,11 @@ I use this repo to **track my progress**, **practice data structures & algorithm
 
 ## 📂 Structure
 Each problem is stored by its ID and title for easy navigation.
-│── TOPIC NAME/
+```│── TOPIC NAME/
 │ │── QUESTION-1/
 │ │ └── Solution.java
 │ │── QUESTION-2/
-│ | └── Solution.java
+│ | └── Solution.java```
 
 
 ## 🛠 Language Used
