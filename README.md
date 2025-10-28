@@ -16,9 +16,9 @@ Using a single language ensures consistency and allows me to focus on problem-so
 
 
 ## 📈 Progress
-- Total problems solved: **210/3655**
-- ![Easy](https://img.shields.io/badge/Easy-green) : **101**
-- ![Medium](https://img.shields.io/badge/Medium-yellow) : **84**
+- Total problems solved: **214/3655**
+- ![Easy](https://img.shields.io/badge/Easy-green) : **102**
+- ![Medium](https://img.shields.io/badge/Medium-yellow) : **87**
 - ![Hard](https://img.shields.io/badge/Hard-red) : **25**
 
 
