@@ -16,10 +16,10 @@ Using a single language ensures consistency and allows me to focus on problem-so
 
 
 ## 📈 Progress
-- Total problems solved: **214/3655**
-- ![Easy](https://img.shields.io/badge/Easy-green) : **102**
-- ![Medium](https://img.shields.io/badge/Medium-yellow) : **87**
-- ![Hard](https://img.shields.io/badge/Hard-red) : **25**
+- Total problems solved: **246/3777**
+- ![Easy](https://img.shields.io/badge/Easy-green) : **117**
+- ![Medium](https://img.shields.io/badge/Medium-yellow) : **112**
+- ![Hard](https://img.shields.io/badge/Hard-red) : **35**
 
 
 ## 🎯 Goals
