@@ -23,7 +23,7 @@ Using a single language ensures consistency and allows me to focus on problem-so
 
 
 ## 🎯 Goals
-- Solve at least **350+** problems in 2025  
+- Solve at least **350+** problems in 2026  
 - Cover all important topics: Arrays, Strings, Hashing, Linked Lists, Trees, Graphs, Dynamic Programming, etc.  
 - Add explanations for tricky problems whenever possible
 
