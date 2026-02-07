@@ -16,14 +16,14 @@ Using a single language ensures consistency and allows me to focus on problem-so
 
 
 ## 📈 Progress
-- Total problems solved: **308/3821**
-- ![Easy](https://img.shields.io/badge/Easy-green) : **126**
-- ![Medium](https://img.shields.io/badge/Medium-yellow) : **137**
-- ![Hard](https://img.shields.io/badge/Hard-red) : **45**
+- Total problems solved: **325/3832**
+- ![Easy](https://img.shields.io/badge/Easy-green) : **130**
+- ![Medium](https://img.shields.io/badge/Medium-yellow) : **145**
+- ![Hard](https://img.shields.io/badge/Hard-red) : **50**
 
 
 ## 🎯 Goals
-- Solve at least **350+** problems in 2026  
+- Solve at least **400+** problems in 2026  
 - Cover all important topics: Arrays, Strings, Hashing, Linked Lists, Trees, Graphs, Dynamic Programming, etc.  
 - Add explanations for tricky problems whenever possible
 
