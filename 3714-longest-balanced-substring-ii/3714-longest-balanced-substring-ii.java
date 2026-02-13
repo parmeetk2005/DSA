@@ -1,94 +1,66 @@
-import java.util.*;
-
-public class Solution {
+class Solution {
     public int longestBalanced(String s) {
-        int maxLen = 0;
-
-        maxLen = Math.max(maxLen, getMaxSingle(s, 'a'));
-        maxLen = Math.max(maxLen, getMaxSingle(s, 'b'));
-        maxLen = Math.max(maxLen, getMaxSingle(s, 'c'));
-
-        maxLen = Math.max(maxLen, getMaxDouble(s, 'a', 'b', 'c'));
-        maxLen = Math.max(maxLen, getMaxDouble(s, 'a', 'c', 'b'));
-        maxLen = Math.max(maxLen, getMaxDouble(s, 'b', 'c', 'a'));
-
-        maxLen = Math.max(maxLen, getMaxTriple(s));
-
-        return maxLen;
-    }
-
-    private int getMaxSingle(String s, char target) {
-        int max = 0, current = 0;
         int n = s.length();
-        for (int i = 0; i < n; i++) {
-            if (s.charAt(i) == target) current++;
-            else current = 0;
-            max = Math.max(max, current);
+        int len = 1; int max = 1;
+        for(int i=1; i<n; i++){
+            if(s.charAt(i) == s.charAt(i-1)){
+                len++;
+                max = Math.max(max, len);
+            } else {
+                len = 1;
+            }
         }
+        int a = 0, b = 0, c = 0;
+        Map<String, Integer> map = new HashMap<>();
+        map.put("0,0", -1);
+        for(int i=0; i<n; i++){
+            char ch = s.charAt(i);
+            if(ch == 'a'){
+                a++;
+            } else if(ch == 'b'){
+                b++;
+            } else {
+                c++;
+            }
+            int diff1 = a - b; int diff2 = a - c;
+            String key = diff1 + "," + diff2;
+            if(map.containsKey(key)){
+                max = Math.max(max, i-map.get(key));
+            } else {
+                map.put(key, i);
+            } 
+        }
+        max = Math.max(max, solve(s, 'a', 'b', 'c'));
+        max = Math.max(max, solve(s, 'a', 'c', 'b'));
+        max = Math.max(max, solve(s, 'b', 'c', 'a'));
+
         return max;
     }
-
-    private int getMaxDouble(String s, char c1, char c2, char forbidden) {
-        int n = s.length();
-        int max = 0;
-        int diff = 0;
-        
-        int[] firstSeen = new int[2 * n + 1];
-        int[] version = new int[2 * n + 1];
-        int curVersion = 1;
-
-        firstSeen[n] = -1; 
-        version[n] = 1;
-
-        for (int i = 0; i < n; i++) {
-            char c = s.charAt(i);
-            
-            if (c == forbidden) {
-                curVersion++;
-                diff = 0;
-                version[n] = curVersion;
-                firstSeen[n] = i; 
-            } else {
-                if (c == c1) diff++;
-                else if (c == c2) diff--;
-                
-                int index = diff + n; 
-                
-                if (version[index] == curVersion) {
-                    max = Math.max(max, i - firstSeen[index]);
+    public int solve(String s, char c1, char c2, char skip){
+        int maxLen = 0; int n = s.length();
+        for(int i=0; i<s.length(); i++){
+            while(i < n && s.charAt(i) == skip) i++;
+            if(i >= n) break;
+            int p = i;
+            while(i < n && s.charAt(i) != skip) i++;
+            int q = i-1; int x = 0; int y = 0;
+            Map<Integer, Integer> map = new HashMap<>();
+            map.put(0, p-1);
+            for(int j=p; j<=q; j++){
+                char ch = s.charAt(j);
+                if (ch == c1){
+                    x++;
+                } else if(ch == c2){
+                    y++;
+                }
+                int key = x-y;
+                if(map.containsKey(key)){
+                    maxLen = Math.max(maxLen, j-map.get(key));
                 } else {
-
-                    firstSeen[index] = i;
-                    version[index] = curVersion;
+                    map.put(key, j);
                 }
             }
         }
-        return max;
-    }
-
-    private int getMaxTriple(String s) {
-        int n = s.length();
-        int max = 0;
-        int diff1 = 0, diff2 = 0; 
-        
-        Map<Long, Integer> firstSeen = new HashMap<>();
-        long initialKey = 0L;
-        firstSeen.put(initialKey, -1);
-
-        for (int i = 0; i < n; i++) {
-            char c = s.charAt(i);
-            if (c == 'a') { diff1++; }
-            else if (c == 'b') { diff1--; diff2++; }
-            else if (c == 'c') { diff2--; }
-
-            long key = (((long)diff1) << 32) | (diff2 & 0xFFFFFFFFL);
-
-            if (firstSeen.containsKey(key)) {
-                max = Math.max(max, i - firstSeen.get(key));
-            } else {
-                firstSeen.put(key, i);
-            }
-        }
-        return max;
+        return maxLen;
     }
 }
