@@ -31,3 +31,19 @@ Using a single language ensures consistency and allows me to focus on problem-so
 ## 🤝 Contributing
 This repo is mainly for personal practice, but feel free to explore and suggest improvements.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/parmeetk2005/DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/parmeetk2005/DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/parmeetk2005/DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+<!---LeetCode Topics End-->
