@@ -64,6 +64,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | ------- | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/parmeetk2005/DSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/parmeetk2005/DSA/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/parmeetk2005/DSA/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,4 +81,5 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/parmeetk2005/DSA/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/parmeetk2005/DSA/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 <!---LeetCode Topics End-->
