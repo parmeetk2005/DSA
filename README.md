@@ -37,6 +37,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/parmeetk2005/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/parmeetk2005/DSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/parmeetk2005/DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/parmeetk2005/DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -74,6 +75,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/parmeetk2005/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/parmeetk2005/DSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/parmeetk2005/DSA/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/parmeetk2005/DSA/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
@@ -150,4 +152,8 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/parmeetk2005/DSA/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/parmeetk2005/DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/parmeetk2005/DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/parmeetk2005/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
