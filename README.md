@@ -63,6 +63,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/parmeetk2005/DSA/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/parmeetk2005/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/parmeetk2005/DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/parmeetk2005/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/parmeetk2005/DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/parmeetk2005/DSA/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/parmeetk2005/DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/parmeetk2005/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,4 +158,5 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parmeetk2005/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/parmeetk2005/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 <!---LeetCode Topics End-->
