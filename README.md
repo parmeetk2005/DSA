@@ -55,6 +55,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/parmeetk2005/DSA/tree/main/0048-rotate-image/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/parmeetk2005/DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/parmeetk2005/DSA/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/parmeetk2005/DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -68,6 +69,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/parmeetk2005/DSA/tree/main/0048-rotate-image/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/parmeetk2005/DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/parmeetk2005/DSA/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/parmeetk2005/DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -134,6 +136,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/parmeetk2005/DSA/tree/main/0048-rotate-image/) | Medium |
 | [1622-fancy-sequence](https://github.com/parmeetk2005/DSA/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/parmeetk2005/DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/parmeetk2005/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
