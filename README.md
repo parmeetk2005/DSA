@@ -45,6 +45,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/parmeetk2005/DSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/parmeetk2005/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/parmeetk2005/DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/parmeetk2005/DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
