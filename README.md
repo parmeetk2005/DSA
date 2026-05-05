@@ -272,6 +272,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parmeetk2005/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0061-rotate-list](https://github.com/parmeetk2005/DSA/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/parmeetk2005/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/parmeetk2005/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Enumeration
@@ -316,4 +317,8 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/parmeetk2005/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/parmeetk2005/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/parmeetk2005/DSA/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
