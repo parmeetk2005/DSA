@@ -76,6 +76,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/parmeetk2005/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/parmeetk2005/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0396-rotate-function](https://github.com/parmeetk2005/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/parmeetk2005/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/parmeetk2005/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -216,6 +217,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/parmeetk2005/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/parmeetk2005/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/parmeetk2005/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/parmeetk2005/DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
