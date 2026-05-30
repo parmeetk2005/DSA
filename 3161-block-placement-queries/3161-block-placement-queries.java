@@ -1,122 +1,91 @@
-import java.util.*;
+class Solution {
 
-class Fenwick {
-    int n;
-    int[] bit;
+    private final int MAXX = 50000;
+    private int[] seg;
 
-    Fenwick(int n) {
-        this.n = n;
-        this.bit = new int[n + 1];
-    }
-
-    void add(int idx, int val) {
-        for (; idx <= n; idx += idx & -idx) {
-            bit[idx] += val;
-        }
-    }
-
-    int sum(int idx) {
-        int res = 0;
-        for (; idx > 0; idx -= idx & -idx) {
-            res += bit[idx];
-        }
-        return res;
-    }
-
-    int kth(int k) {
-        int idx = 0;
-        int step = 1;
-        while ((step << 1) <= n) step <<= 1;
-
-        for (int d = step; d > 0; d >>= 1) {
-            int next = idx + d;
-            if (next <= n && bit[next] < k) {
-                idx = next;
-                k -= bit[next];
-            }
-        }
-        return idx + 1;
-    }
-}
-
-class SegTree {
-    int n;
-    int[] tree;
-
-    SegTree(int n) {
-        this.n = n;
-        this.tree = new int[Math.max(4, 4 * n)];
-    }
-
-    void update(int node, int l, int r, int pos, int val) {
+    private void update(int node, int l, int r, int idx, int val) {
         if (l == r) {
-            tree[node] = val;
+            seg[node] = val;
             return;
         }
-        int mid = (l + r) >>> 1;
-        if (pos <= mid) update(node << 1, l, mid, pos, val);
-        else update(node << 1 | 1, mid + 1, r, pos, val);
-        tree[node] = Math.max(tree[node << 1], tree[node << 1 | 1]);
+
+        int mid = (l + r) / 2;
+
+        if (idx <= mid)
+            update(2 * node, l, mid, idx, val);
+        else
+            update(2 * node + 1, mid + 1, r, idx, val);
+
+        seg[node] = Math.max(seg[2 * node], seg[2 * node + 1]);
     }
 
-    int query(int node, int l, int r, int ql, int qr) {
-        if (ql > r || qr < l) return 0;
-        if (ql <= l && r <= qr) return tree[node];
-        int mid = (l + r) >>> 1;
-        return Math.max(query(node << 1, l, mid, ql, qr),
-                        query(node << 1 | 1, mid + 1, r, ql, qr));
-    }
-}
+    private int query(int node, int l, int r, int ql, int qr) {
+        if (ql > r || qr < l)
+            return 0;
 
-class Solution {
+        if (ql <= l && r <= qr)
+            return seg[node];
+
+        int mid = (l + r) / 2;
+
+        return Math.max(
+            query(2 * node, l, mid, ql, qr),
+            query(2 * node + 1, mid + 1, r, ql, qr)
+        );
+    }
+
     public List<Boolean> getResults(int[][] queries) {
-        int mx = 0;
+
+        seg = new int[4 * (MAXX + 1)];
+
+        TreeSet<Integer> obstacles = new TreeSet<>();
+        obstacles.add(0);
+
         for (int[] q : queries) {
-            mx = Math.max(mx, q[1]);
+            if (q[0] == 1) obstacles.add(q[1]);
         }
 
-        int fenwickSize = mx + 2;
-        Fenwick fw = new Fenwick(fenwickSize);
-        SegTree st = new SegTree(mx + 1);
+        List<Integer> pos = new ArrayList<>(obstacles);
 
-        fw.add(1, 1);
+        for (int i = 1; i < pos.size(); i++) {
+            update(1,0,MAXX,pos.get(i),pos.get(i) - pos.get(i - 1));
+        }
 
         List<Boolean> ans = new ArrayList<>();
 
-        for (int[] q : queries) {
-            int type = q[0];
-            int x = q[1];
+        for (int i = queries.length - 1; i >= 0; i--) {
 
-            if (type == 1) {
-                int leftCount = fw.sum(x);
-                int leftPos = fw.kth(leftCount) - 1;
+            if (queries[i][0] == 2) {
 
-                int occupiedUpToX = fw.sum(x + 1);
-                int totalOccupied = fw.sum(fenwickSize);
-                int rightPos = -1;
-                if (occupiedUpToX < totalOccupied) {
-                    rightPos = fw.kth(occupiedUpToX + 1) - 1;
+                int x = queries[i][1];
+                int sz = queries[i][2];
+
+                int prevObstacle = obstacles.floor(x);
+
+                int best = query(1, 0,MAXX,0,prevObstacle);
+                best = Math.max(best, x - prevObstacle);
+
+                ans.add(best >= sz);
+            }
+            else {
+
+                int x = queries[i][1];
+
+                Integer leftPos = obstacles.lower(x);
+
+                update(1,0,MAXX,x,0);
+
+                Integer rightPos = obstacles.higher(x);
+
+                if (rightPos != null) {
+                    update(1,0,MAXX,rightPos,rightPos - leftPos);
                 }
 
-                st.update(1, 0, mx, x, x - leftPos);
-
-                if (rightPos != -1) {
-                    st.update(1, 0, mx, rightPos, rightPos - x);
-                }
-
-                fw.add(x + 1, 1);
-            } else {
-                int sz = q[2];
-
-                int leftCount = fw.sum(x);
-                int leftPos = fw.kth(leftCount) - 1;
-
-                int bestPrefix = st.query(1, 0, mx, 0, x);
-
-                ans.add((x - leftPos >= sz) || (bestPrefix >= sz));
+                obstacles.remove(x);
             }
         }
 
+        Collections.reverse(ans);
         return ans;
     }
 }
