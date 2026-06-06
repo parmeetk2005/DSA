@@ -115,6 +115,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [2540-minimum-common-value](https://github.com/parmeetk2005/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/parmeetk2005/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/parmeetk2005/DSA/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2574-left-and-right-sum-differences](https://github.com/parmeetk2005/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/parmeetk2005/DSA/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/parmeetk2005/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2751-robot-collisions](https://github.com/parmeetk2005/DSA/tree/main/2751-robot-collisions/) | Hard |
@@ -234,6 +235,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/parmeetk2005/DSA/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1871-jump-game-vii](https://github.com/parmeetk2005/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/parmeetk2005/DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/parmeetk2005/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/parmeetk2005/DSA/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/parmeetk2005/DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/parmeetk2005/DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
