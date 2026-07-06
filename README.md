@@ -98,6 +98,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/parmeetk2005/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/parmeetk2005/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/parmeetk2005/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/parmeetk2005/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/parmeetk2005/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/parmeetk2005/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/parmeetk2005/DSA/tree/main/1340-jump-game-v/) | Hard |
@@ -409,6 +410,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | ------- | ------- |
 | [0015-3sum](https://github.com/parmeetk2005/DSA/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/parmeetk2005/DSA/tree/main/0075-sort-colors/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/parmeetk2005/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1340-jump-game-v](https://github.com/parmeetk2005/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/parmeetk2005/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/parmeetk2005/DSA/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
