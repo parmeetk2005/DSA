@@ -247,6 +247,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/parmeetk2005/DSA/tree/main/0202-happy-number/) | Easy |
+| [0460-lfu-cache](https://github.com/parmeetk2005/DSA/tree/main/0460-lfu-cache/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/parmeetk2005/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/parmeetk2005/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/parmeetk2005/DSA/tree/main/1345-jump-game-iv/) | Hard |
@@ -395,6 +396,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0460-lfu-cache](https://github.com/parmeetk2005/DSA/tree/main/0460-lfu-cache/) | Hard |
 | [1622-fancy-sequence](https://github.com/parmeetk2005/DSA/tree/main/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/parmeetk2005/DSA/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Segment Tree
@@ -512,6 +514,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/parmeetk2005/DSA/tree/main/0061-rotate-list/) | Medium |
+| [0460-lfu-cache](https://github.com/parmeetk2005/DSA/tree/main/0460-lfu-cache/) | Hard |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/parmeetk2005/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/parmeetk2005/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Number Theory
@@ -550,4 +553,8 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3620-network-recovery-pathways](https://github.com/parmeetk2005/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0460-lfu-cache](https://github.com/parmeetk2005/DSA/tree/main/0460-lfu-cache/) | Hard |
 <!---LeetCode Topics End-->
