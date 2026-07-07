@@ -96,6 +96,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0075-sort-colors](https://github.com/parmeetk2005/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parmeetk2005/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/parmeetk2005/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0238-product-of-array-except-self](https://github.com/parmeetk2005/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0396-rotate-function](https://github.com/parmeetk2005/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/parmeetk2005/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/parmeetk2005/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -281,6 +282,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/parmeetk2005/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/parmeetk2005/DSA/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/parmeetk2005/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/parmeetk2005/DSA/tree/main/1871-jump-game-vii/) | Medium |
