@@ -484,6 +484,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/parmeetk2005/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/parmeetk2005/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/parmeetk2005/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/parmeetk2005/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -511,6 +512,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/parmeetk2005/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1306-jump-game-iii](https://github.com/parmeetk2005/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/parmeetk2005/DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/parmeetk2005/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -537,6 +539,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/parmeetk2005/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/parmeetk2005/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/parmeetk2005/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/parmeetk2005/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -544,6 +547,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/parmeetk2005/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/parmeetk2005/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/parmeetk2005/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Counting Sort
