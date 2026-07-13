@@ -480,6 +480,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/parmeetk2005/DSA/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/parmeetk2005/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/parmeetk2005/DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/parmeetk2005/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
