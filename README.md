@@ -70,6 +70,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/parmeetk2005/DSA/tree/main/0050-powx-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/parmeetk2005/DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -385,6 +386,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/parmeetk2005/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/parmeetk2005/DSA/tree/main/0050-powx-n/) | Medium |
 | [0202-happy-number](https://github.com/parmeetk2005/DSA/tree/main/0202-happy-number/) | Easy |
 | [0396-rotate-function](https://github.com/parmeetk2005/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/parmeetk2005/DSA/tree/main/0788-rotated-digits/) | Medium |
