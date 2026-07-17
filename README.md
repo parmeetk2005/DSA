@@ -99,6 +99,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0037-sudoku-solver](https://github.com/parmeetk2005/DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0040-combination-sum-ii](https://github.com/parmeetk2005/DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0048-rotate-image](https://github.com/parmeetk2005/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0051-n-queens](https://github.com/parmeetk2005/DSA/tree/main/0051-n-queens/) | Hard |
 | [0075-sort-colors](https://github.com/parmeetk2005/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parmeetk2005/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/parmeetk2005/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -297,6 +298,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/parmeetk2005/DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0040-combination-sum-ii](https://github.com/parmeetk2005/DSA/tree/main/0040-combination-sum-ii/) | Medium |
+| [0051-n-queens](https://github.com/parmeetk2005/DSA/tree/main/0051-n-queens/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/parmeetk2005/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/parmeetk2005/DSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/parmeetk2005/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
