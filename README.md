@@ -106,6 +106,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parmeetk2005/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/parmeetk2005/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/parmeetk2005/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0322-coin-change](https://github.com/parmeetk2005/DSA/tree/main/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/parmeetk2005/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/parmeetk2005/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/parmeetk2005/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -235,6 +236,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parmeetk2005/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/parmeetk2005/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0322-coin-change](https://github.com/parmeetk2005/DSA/tree/main/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/parmeetk2005/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/parmeetk2005/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/parmeetk2005/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -569,6 +571,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/parmeetk2005/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0322-coin-change](https://github.com/parmeetk2005/DSA/tree/main/0322-coin-change/) | Medium |
 | [1306-jump-game-iii](https://github.com/parmeetk2005/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/parmeetk2005/DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/parmeetk2005/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
