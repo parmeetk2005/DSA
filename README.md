@@ -124,6 +124,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [1340-jump-game-v](https://github.com/parmeetk2005/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/parmeetk2005/DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/parmeetk2005/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/parmeetk2005/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/parmeetk2005/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/parmeetk2005/DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/parmeetk2005/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -279,6 +280,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0904-fruit-into-baskets](https://github.com/parmeetk2005/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/parmeetk2005/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parmeetk2005/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/parmeetk2005/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1871-jump-game-vii](https://github.com/parmeetk2005/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/parmeetk2005/DSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Hash Table
@@ -329,6 +331,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/parmeetk2005/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/parmeetk2005/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/parmeetk2005/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/parmeetk2005/DSA/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/parmeetk2005/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/parmeetk2005/DSA/tree/main/1871-jump-game-vii/) | Medium |
