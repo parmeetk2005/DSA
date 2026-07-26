@@ -113,6 +113,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0396-rotate-function](https://github.com/parmeetk2005/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/parmeetk2005/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/parmeetk2005/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/parmeetk2005/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/parmeetk2005/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/parmeetk2005/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1260-shift-2d-grid](https://github.com/parmeetk2005/DSA/tree/main/1260-shift-2d-grid/) | Easy |
@@ -275,6 +276,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0904-fruit-into-baskets](https://github.com/parmeetk2005/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/parmeetk2005/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parmeetk2005/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/parmeetk2005/DSA/tree/main/1871-jump-game-vii/) | Medium |
@@ -286,6 +288,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0202-happy-number](https://github.com/parmeetk2005/DSA/tree/main/0202-happy-number/) | Easy |
 | [0460-lfu-cache](https://github.com/parmeetk2005/DSA/tree/main/0460-lfu-cache/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/parmeetk2005/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/parmeetk2005/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/parmeetk2005/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/parmeetk2005/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/parmeetk2005/DSA/tree/main/1345-jump-game-iv/) | Hard |
