@@ -246,6 +246,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/parmeetk2005/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/parmeetk2005/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parmeetk2005/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/parmeetk2005/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -563,6 +564,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/parmeetk2005/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/parmeetk2005/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parmeetk2005/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/parmeetk2005/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
