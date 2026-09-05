@@ -249,6 +249,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [3875-construct-uniform-parity-array-i](https://github.com/parmeetk2005/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/parmeetk2005/DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/parmeetk2005/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/parmeetk2005/DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -420,6 +421,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/parmeetk2005/DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/parmeetk2005/DSA/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/parmeetk2005/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/parmeetk2005/DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
