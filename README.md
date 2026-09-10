@@ -37,6 +37,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/parmeetk2005/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/parmeetk2005/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0049-group-anagrams](https://github.com/parmeetk2005/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/parmeetk2005/DSA/tree/main/0115-distinct-subsequences/) | Hard |
@@ -336,6 +337,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/parmeetk2005/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/parmeetk2005/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/parmeetk2005/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/parmeetk2005/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -351,6 +353,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/parmeetk2005/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0037-sudoku-solver](https://github.com/parmeetk2005/DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/parmeetk2005/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0202-happy-number](https://github.com/parmeetk2005/DSA/tree/main/0202-happy-number/) | Easy |
