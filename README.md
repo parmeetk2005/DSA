@@ -42,6 +42,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0115-distinct-subsequences](https://github.com/parmeetk2005/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/parmeetk2005/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/parmeetk2005/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/parmeetk2005/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/parmeetk2005/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/parmeetk2005/DSA/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/parmeetk2005/DSA/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -334,6 +335,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/parmeetk2005/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/parmeetk2005/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/parmeetk2005/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/parmeetk2005/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/parmeetk2005/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -352,6 +354,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0202-happy-number](https://github.com/parmeetk2005/DSA/tree/main/0202-happy-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/parmeetk2005/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0460-lfu-cache](https://github.com/parmeetk2005/DSA/tree/main/0460-lfu-cache/) | Hard |
+| [0567-permutation-in-string](https://github.com/parmeetk2005/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/parmeetk2005/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/parmeetk2005/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/parmeetk2005/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -654,6 +657,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0061-rotate-list](https://github.com/parmeetk2005/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/parmeetk2005/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0202-happy-number](https://github.com/parmeetk2005/DSA/tree/main/0202-happy-number/) | Easy |
+| [0567-permutation-in-string](https://github.com/parmeetk2005/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/parmeetk2005/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/parmeetk2005/DSA/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/parmeetk2005/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
