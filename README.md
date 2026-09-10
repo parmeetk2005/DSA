@@ -41,6 +41,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0049-group-anagrams](https://github.com/parmeetk2005/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/parmeetk2005/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/parmeetk2005/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/parmeetk2005/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/parmeetk2005/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/parmeetk2005/DSA/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/parmeetk2005/DSA/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -332,6 +333,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/parmeetk2005/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/parmeetk2005/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/parmeetk2005/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/parmeetk2005/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -348,6 +350,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0037-sudoku-solver](https://github.com/parmeetk2005/DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/parmeetk2005/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0202-happy-number](https://github.com/parmeetk2005/DSA/tree/main/0202-happy-number/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/parmeetk2005/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0460-lfu-cache](https://github.com/parmeetk2005/DSA/tree/main/0460-lfu-cache/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/parmeetk2005/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/parmeetk2005/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
