@@ -553,6 +553,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0486-predict-the-winner](https://github.com/parmeetk2005/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/parmeetk2005/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/parmeetk2005/DSA/tree/main/0788-rotated-digits/) | Medium |
+| [0836-rectangle-overlap](https://github.com/parmeetk2005/DSA/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/parmeetk2005/DSA/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/parmeetk2005/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/parmeetk2005/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -752,6 +753,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/parmeetk2005/DSA/tree/main/0836-rectangle-overlap/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/parmeetk2005/DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
