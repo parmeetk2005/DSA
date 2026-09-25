@@ -48,6 +48,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0796-rotate-string](https://github.com/parmeetk2005/DSA/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/parmeetk2005/DSA/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/parmeetk2005/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/parmeetk2005/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/parmeetk2005/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/parmeetk2005/DSA/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parmeetk2005/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -383,6 +384,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0567-permutation-in-string](https://github.com/parmeetk2005/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/parmeetk2005/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/parmeetk2005/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/parmeetk2005/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/parmeetk2005/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/parmeetk2005/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/parmeetk2005/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -432,6 +434,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0040-combination-sum-ii](https://github.com/parmeetk2005/DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/parmeetk2005/DSA/tree/main/0051-n-queens/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/parmeetk2005/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/parmeetk2005/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/parmeetk2005/DSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/parmeetk2005/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parmeetk2005/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -663,6 +666,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0049-group-anagrams](https://github.com/parmeetk2005/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/parmeetk2005/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/parmeetk2005/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/parmeetk2005/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/parmeetk2005/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/parmeetk2005/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/parmeetk2005/DSA/tree/main/1340-jump-game-v/) | Hard |
@@ -741,6 +745,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/parmeetk2005/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/parmeetk2005/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/parmeetk2005/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/parmeetk2005/DSA/tree/main/2751-robot-collisions/) | Hard |
 ## Divide and Conquer
@@ -793,6 +798,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/parmeetk2005/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0322-coin-change](https://github.com/parmeetk2005/DSA/tree/main/0322-coin-change/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/parmeetk2005/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/parmeetk2005/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/parmeetk2005/DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/parmeetk2005/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
