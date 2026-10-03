@@ -41,6 +41,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0005-longest-palindromic-substring](https://github.com/parmeetk2005/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/parmeetk2005/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/parmeetk2005/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/parmeetk2005/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/parmeetk2005/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/parmeetk2005/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/parmeetk2005/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -319,6 +320,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parmeetk2005/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/parmeetk2005/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/parmeetk2005/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/parmeetk2005/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parmeetk2005/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/parmeetk2005/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -758,6 +760,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/parmeetk2005/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/parmeetk2005/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/parmeetk2005/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/parmeetk2005/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/parmeetk2005/DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -946,6 +949,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/parmeetk2005/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/parmeetk2005/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/parmeetk2005/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/parmeetk2005/DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parmeetk2005/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parmeetk2005/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
