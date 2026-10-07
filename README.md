@@ -45,6 +45,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0049-group-anagrams](https://github.com/parmeetk2005/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/parmeetk2005/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/parmeetk2005/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/parmeetk2005/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/parmeetk2005/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/parmeetk2005/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/parmeetk2005/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -453,6 +454,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0040-combination-sum-ii](https://github.com/parmeetk2005/DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/parmeetk2005/DSA/tree/main/0051-n-queens/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/parmeetk2005/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/parmeetk2005/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/parmeetk2005/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/parmeetk2005/DSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/parmeetk2005/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -826,6 +828,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/parmeetk2005/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/parmeetk2005/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/parmeetk2005/DSA/tree/main/0322-coin-change/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/parmeetk2005/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/parmeetk2005/DSA/tree/main/1306-jump-game-iii/) | Medium |
