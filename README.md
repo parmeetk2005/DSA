@@ -164,6 +164,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/parmeetk2005/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1140-stone-game-ii](https://github.com/parmeetk2005/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/parmeetk2005/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/parmeetk2005/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/parmeetk2005/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/parmeetk2005/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/parmeetk2005/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -307,6 +308,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0037-sudoku-solver](https://github.com/parmeetk2005/DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/parmeetk2005/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0835-image-overlap](https://github.com/parmeetk2005/DSA/tree/main/0835-image-overlap/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/parmeetk2005/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/parmeetk2005/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/parmeetk2005/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/parmeetk2005/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -598,6 +600,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/parmeetk2005/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/parmeetk2005/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/parmeetk2005/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parmeetk2005/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -839,6 +842,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/parmeetk2005/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/parmeetk2005/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/parmeetk2005/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/parmeetk2005/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/parmeetk2005/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/parmeetk2005/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -879,6 +883,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0301-remove-invalid-parentheses](https://github.com/parmeetk2005/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/parmeetk2005/DSA/tree/main/0322-coin-change/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/parmeetk2005/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/parmeetk2005/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/parmeetk2005/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/parmeetk2005/DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/parmeetk2005/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
