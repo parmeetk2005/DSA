@@ -156,6 +156,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0238-product-of-array-except-self](https://github.com/parmeetk2005/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0322-coin-change](https://github.com/parmeetk2005/DSA/tree/main/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/parmeetk2005/DSA/tree/main/0396-rotate-function/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/parmeetk2005/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/parmeetk2005/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/parmeetk2005/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0835-image-overlap](https://github.com/parmeetk2005/DSA/tree/main/0835-image-overlap/) | Medium |
@@ -649,6 +650,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0050-powx-n](https://github.com/parmeetk2005/DSA/tree/main/0050-powx-n/) | Medium |
 | [0202-happy-number](https://github.com/parmeetk2005/DSA/tree/main/0202-happy-number/) | Easy |
 | [0396-rotate-function](https://github.com/parmeetk2005/DSA/tree/main/0396-rotate-function/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/parmeetk2005/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/parmeetk2005/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/parmeetk2005/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/parmeetk2005/DSA/tree/main/0788-rotated-digits/) | Medium |
