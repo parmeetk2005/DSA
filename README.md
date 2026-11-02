@@ -157,6 +157,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0322-coin-change](https://github.com/parmeetk2005/DSA/tree/main/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/parmeetk2005/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/parmeetk2005/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parmeetk2005/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/parmeetk2005/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/parmeetk2005/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0835-image-overlap](https://github.com/parmeetk2005/DSA/tree/main/0835-image-overlap/) | Medium |
@@ -651,6 +652,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0202-happy-number](https://github.com/parmeetk2005/DSA/tree/main/0202-happy-number/) | Easy |
 | [0396-rotate-function](https://github.com/parmeetk2005/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/parmeetk2005/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parmeetk2005/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/parmeetk2005/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/parmeetk2005/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/parmeetk2005/DSA/tree/main/0788-rotated-digits/) | Medium |
@@ -748,6 +750,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [0015-3sum](https://github.com/parmeetk2005/DSA/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/parmeetk2005/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/parmeetk2005/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parmeetk2005/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/parmeetk2005/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/parmeetk2005/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/parmeetk2005/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
