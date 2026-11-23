@@ -184,6 +184,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [1331-rank-transform-of-an-array](https://github.com/parmeetk2005/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/parmeetk2005/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/parmeetk2005/DSA/tree/main/1345-jump-game-iv/) | Hard |
+| [1352-product-of-the-last-k-numbers](https://github.com/parmeetk2005/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/parmeetk2005/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/parmeetk2005/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/parmeetk2005/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -537,6 +538,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [1004-max-consecutive-ones-iii](https://github.com/parmeetk2005/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/parmeetk2005/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/parmeetk2005/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/parmeetk2005/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/parmeetk2005/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/parmeetk2005/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parmeetk2005/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -702,6 +704,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | [1140-stone-game-ii](https://github.com/parmeetk2005/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/parmeetk2005/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/parmeetk2005/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/parmeetk2005/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/parmeetk2005/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/parmeetk2005/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/parmeetk2005/DSA/tree/main/1510-stone-game-iv/) | Hard |
@@ -776,6 +779,7 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0460-lfu-cache](https://github.com/parmeetk2005/DSA/tree/main/0460-lfu-cache/) | Hard |
+| [1352-product-of-the-last-k-numbers](https://github.com/parmeetk2005/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1622-fancy-sequence](https://github.com/parmeetk2005/DSA/tree/main/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/parmeetk2005/DSA/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Segment Tree
@@ -1141,4 +1145,8 @@ This repo is mainly for personal practice, but feel free to explore and suggest 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/parmeetk2005/DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/parmeetk2005/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
